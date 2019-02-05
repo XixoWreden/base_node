@@ -11,5 +11,8 @@
     "url": "yes"
   },
   "author": "Hey Xixo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
 }
