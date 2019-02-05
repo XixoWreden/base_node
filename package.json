@@ -1,0 +1,15 @@
+{
+  "name": "node_base",
+  "version": "1.0.0",
+  "description": "Repo de todo lo aprendido en el curso de PLATZI llamado \"Curso Básico de NodeJS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "Hey Xixo",
+  "license": "ISC"
+}
